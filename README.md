@@ -1,5 +1,8 @@
 # TP5
 
+## Desain Program
+<img width="1025" height="645" alt="image" src="https://github.com/user-attachments/assets/39407d59-329c-4b79-aae3-7d9e16041bb5" />
+
 ## Alur Program
 1. Saat program dijalankan, jendela utama (ProductMenu) terbuka dan langsung menampilkan daftar produk yang diambil dari database db_product melalui class Database.
 2. User dapat menambahkan produk baru dengan mengisi form (ID, Nama, Harga, Stok, Kategori, dan Merk), lalu menekan tombol Add. Data yang dimasukkan akan langsung disimpan ke tabel product di database.
@@ -9,3 +12,7 @@
    - Menghapus produk dengan menekan tombol Delete (data di database juga terhapus setelah konfirmasi).
 5. Tombol Cancel digunakan untuk mengosongkan seluruh form dan mengembalikan tampilan ke mode penambahan data baru.
 6. Setiap perubahan (tambah, ubah, hapus) langsung diperbarui pada tabel dan tersimpan di database tanpa perlu me-restart program.
+
+## Dokumentasi
+https://github.com/user-attachments/assets/06472035-fbd5-4c3c-818e-30adc0aa708c
+
